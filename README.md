@@ -10,6 +10,7 @@ Estou começando, mas foi um desafio bem divertido :smile_cat:
 
 # Versão mobile:
 
+![Captura de tela de 2021-05-28 20-25-53](https://user-images.githubusercontent.com/66807967/120050943-0cf1d480-bff5-11eb-8706-b8067c5f9eaf.png)
 
 
 ## Design criado por <a href="https://www.linkedin.com/in/lucianesantcs/">Luciane Santos</a>
